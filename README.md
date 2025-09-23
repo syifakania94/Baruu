@@ -53,7 +53,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 ## Contributing
 # Laravel Testing Project
-![syifakania94](https://github.com/syifakania94/Baruu.git)
+![syifakania94](https://github.com/syifakania94/Baruu.git/actions/workflows/laravel-tests.yml/badge.svg)
 
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
